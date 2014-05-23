@@ -55,4 +55,4 @@ completo =cbind (fusion, individuos, actividades)
 #agregando por filas y data final
 fila = paste(completo[, 35], completo[, 36])
 res = apply(completo[,1:34], 2, function(x) tapply(x, fila, mean))
-write.table(res, file = "tidydata.txt)
+write.table(res, file = "tidydata.txt")
