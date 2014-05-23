@@ -13,4 +13,4 @@ Rownames of tidydata object identify the number of the subject "1-30" followed b
 Colnames of tidydata reflect the different variable names, calculated by grouping and calculating the mean of the several measures in axis X, Y, Z for each variable.
 The final table is 180 * 34, containing "average of each variable for each activity and each subject" as requested in the course project.
 
-Instructions about the desired output and the overall process were extremely vague, and I tried to follow my own common sense :)
+Instructions in the course project about the desired output and the overall process were extremely vague, and I tried to follow my own common sense :)
