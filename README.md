@@ -5,7 +5,9 @@ Getting_and_Cleaning_Data
 
 This repository contains the code used in R to import and process the raw data indicated in the course project.
 
-All files should be available in your working directory as .txt (the original format in raw data).
+All files relevant to the project should be available in your working directory as .txt (the original format in raw data).
+
+Relevant files are "features.txt", "X_test.txt", "X_train.txt", "subject_test.txt", "subject_train.txt",  "y_train.txt", "y_test.txt", "activity_labels.txt", as far as I have correctly interpreted the troublesome instructions of the project.
 
 The output is a "tidydata.txt" file that can be read using read.table("tidydata.txt", check.names = F) command
 
